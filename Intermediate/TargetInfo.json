@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Cuthulu",
+			"Path": "C:\\Users\\crazy\\Documents\\Unreal Projects\\Cuthulu\\Source\\Cuthulu.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CuthuluEditor",
+			"Path": "C:\\Users\\crazy\\Documents\\Unreal Projects\\Cuthulu\\Source\\CuthuluEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

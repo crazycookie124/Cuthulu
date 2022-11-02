@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Cuthulu.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\CuthuluEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Development\Cuthulu\Cuthulu.cpp.obj"
+"C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Development\Cuthulu\CuthuluGameModeBase.cpp.obj"
+"C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Development\Cuthulu\Cuthulu.init.gen.cpp.obj"
+"C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Development\Cuthulu\CuthuluGameModeBase.gen.cpp.obj"
+"C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Development\Cuthulu\Default.rc2.res"
+/OUT:"C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Development\Cuthulu\UnrealEditor-Cuthulu.lib"
