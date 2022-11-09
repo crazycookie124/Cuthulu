@@ -11,6 +11,8 @@
     <None Include="..\..\Source\CuthuluEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -22,6 +24,12 @@
     </None>
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
     </None>
     <Filter Include="Source\Cuthulu">
       <UniqueIdentifier>{A26C5ABE-E008-336F-A6E0-B84AF6522CDA}</UniqueIdentifier>
@@ -39,6 +47,12 @@
       <Filter>Source\Cuthulu</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Cuthulu\CuthuluGameModeBase.h">
+      <Filter>Source\Cuthulu</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cuthulu\Ikdman.cpp">
+      <Filter>Source\Cuthulu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cuthulu\Ikdman.h">
       <Filter>Source\Cuthulu</Filter>
     </ClInclude>
   </ItemGroup>
