@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\myplayercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\cuthulueditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\development\\cuthulu\\definitions.cuthulu.h",
+            "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\source\\cuthulu\\myplayercontroller.h",
+            "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\myplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

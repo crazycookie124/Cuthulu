@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\mycharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\cuthulueditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\development\\cuthulu\\definitions.cuthulu.h",
+            "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\source\\cuthulu\\mycharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\crazy\\documents\\unreal projects\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

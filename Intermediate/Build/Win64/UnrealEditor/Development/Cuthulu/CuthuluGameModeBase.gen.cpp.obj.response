@@ -1,18 +1,16 @@
 "C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Inc\Cuthulu\CuthuluGameModeBase.gen.cpp"
 /I .
-/I "C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Inc\Cuthulu"
-/I "C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Source"
-/I Runtime
-/I Runtime\TraceLog\Public
-/I Runtime\Core\Public
-/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
-/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine
+/I Runtime
 /I ..\Shaders\Shared
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreOnline
 /I Runtime\CoreOnline\Public
+/I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -253,6 +251,12 @@
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
+/I ..\Plugins\2D\Paper2D\Intermediate\Build\Win64\UnrealEditor\Inc\Paper2D
+/I ..\Plugins\2D\Paper2D\Source
+/I ..\Plugins\2D\Paper2D\Source\Paper2D\Classes
+/I ..\Plugins\2D\Paper2D\Source\Paper2D\Public
+/I "C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Intermediate\Build\Win64\UnrealEditor\Inc\Cuthulu"
+/I "C:\Users\crazy\Documents\Unreal Projects\Cuthulu\Source"
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source

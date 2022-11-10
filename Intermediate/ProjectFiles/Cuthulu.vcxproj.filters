@@ -55,5 +55,23 @@
     <ClInclude Include="..\..\Source\Cuthulu\Ikdman.h">
       <Filter>Source\Cuthulu</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Cuthulu\MyCharacter.cpp">
+      <Filter>Source\Cuthulu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cuthulu\MyCharacter.h">
+      <Filter>Source\Cuthulu</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cuthulu\MyPaperSprite.cpp">
+      <Filter>Source\Cuthulu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cuthulu\MyPaperSprite.h">
+      <Filter>Source\Cuthulu</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cuthulu\MyPlayerController.cpp">
+      <Filter>Source\Cuthulu</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cuthulu\MyPlayerController.h">
+      <Filter>Source\Cuthulu</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
