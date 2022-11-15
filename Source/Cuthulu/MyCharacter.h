@@ -3,9 +3,10 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "papercharacter.h"
 #include "GameFramework/Character.h"
 #include "MyCharacter.generated.h"
-#include "papercharacter.h"
+
 
 UCLASS()
 class CUTHULU_API AMyCharacter : public ACharacter
