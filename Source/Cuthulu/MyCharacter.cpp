@@ -2,6 +2,8 @@
 
 
 #include "MyCharacter.h"
+#include "PaperFlipbookComponent.h"
+
 
 // Sets default values
 AMyCharacter::AMyCharacter()
