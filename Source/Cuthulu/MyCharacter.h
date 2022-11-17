@@ -8,11 +8,12 @@
 #include "MyCharacter.generated.h"
 
 
+
 UCLASS()
 class CUTHULU_API AMyCharacter : public ACharacter
 {
 	GENERATED_BODY()
-
+	
 public:
 	// Sets default values for this character's properties
 	AMyCharacter();
@@ -24,8 +25,12 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
+	
+public:	
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+public: 
+	int32 food = 1000;
+	void FoodFunction();
 };
