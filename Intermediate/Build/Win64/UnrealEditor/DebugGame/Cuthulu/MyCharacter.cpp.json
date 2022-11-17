@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\evie\\cuthulu\\source\\cuthulu\\mycharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\evie\\cuthulu\\intermediate\\build\\win64\\cuthulueditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\debuggame\\cuthulu\\definitions.cuthulu.h",
+            "d:\\evie\\cuthulu\\source\\cuthulu\\mycharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\papercharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\papercharacter.generated.h",
+            "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\mycharacter.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\paperflipbookcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\paperflipbookcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

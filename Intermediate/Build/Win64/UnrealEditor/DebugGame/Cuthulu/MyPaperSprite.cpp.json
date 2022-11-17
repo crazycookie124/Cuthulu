@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\evie\\cuthulu\\source\\cuthulu\\mypapersprite.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\evie\\cuthulu\\intermediate\\build\\win64\\cuthulueditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\debuggame\\cuthulu\\definitions.cuthulu.h",
+            "d:\\evie\\cuthulu\\source\\cuthulu\\mypapersprite.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\papersprite.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\spriteeditoronlytypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\spriteeditoronlytypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\slate\\slatetextureatlasinterface.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\slatetextureatlasinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\papersprite.generated.h",
+            "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\mypapersprite.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

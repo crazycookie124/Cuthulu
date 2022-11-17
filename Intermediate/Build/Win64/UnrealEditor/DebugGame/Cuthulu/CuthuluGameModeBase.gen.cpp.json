@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\cuthulugamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\evie\\cuthulu\\intermediate\\build\\win64\\cuthulueditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\debuggame\\cuthulu\\definitions.cuthulu.h",
+            "d:\\evie\\cuthulu\\source\\cuthulu\\cuthulugamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\inc\\cuthulu\\cuthulugamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

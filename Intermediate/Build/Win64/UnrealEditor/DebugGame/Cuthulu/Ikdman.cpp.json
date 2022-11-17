@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\evie\\cuthulu\\source\\cuthulu\\ikdman.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\evie\\cuthulu\\intermediate\\build\\win64\\cuthulueditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\evie\\cuthulu\\intermediate\\build\\win64\\unrealeditor\\debuggame\\cuthulu\\definitions.cuthulu.h",
+            "d:\\evie\\cuthulu\\source\\cuthulu\\ikdman.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
