@@ -36,7 +36,7 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 }
-
+ 
 void AMyCharacter::FoodFunction()
 {
 	// Makes the food bar decrease over time and stops it at 0.
@@ -47,5 +47,11 @@ void AMyCharacter::FoodFunction()
 	}
 	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Purple, FString::Printf(TEXT("food is == : %d"), food));
 	
+}
+
+int32 AMyCharacter:: foodchange(int32 fooda)
+{
+	fooda = 100;
+	return int32(fooda--);
 }
 

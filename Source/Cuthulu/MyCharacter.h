@@ -33,4 +33,10 @@ public:
 public: 
 	int32 food = 1000;
 	void FoodFunction();
+public:
+	UFUNCTION(BlueprintCallable)
+		int32 foodchange(int32 fooda);
+	
+
 };
+
